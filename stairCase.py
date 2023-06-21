@@ -1,0 +1,21 @@
+from turtle import *
+
+speed('slow')
+
+fd(70)
+lt(90)
+fd(70)
+rt(90)
+fd(70)
+lt(90)
+fd(70)
+rt(90)
+fd(70)
+lt(90)
+fd(70)
+rt(90)
+fd(70)
+lt(90)
+fd(70)
+rt(90)
+mainloop()
