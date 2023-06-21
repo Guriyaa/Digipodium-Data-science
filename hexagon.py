@@ -2,17 +2,12 @@ from turtle import *
 
 speed('slow')
 
-fd(150)
-lt(60)
-fd(150)
-lt(60)
-fd(150)
-lt(60)
-fd(150)
-lt(60)
-fd(150)
-lt(60)
-fd(150)
-lt(60)
+sides = 6 
+distance = 100
+for i in range(6):
+  pencolor('blue')
+  fd(distance)
+  rt(360/sides)
+
 
 mainloop()
