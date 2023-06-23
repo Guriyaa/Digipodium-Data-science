@@ -1,7 +1,7 @@
 from turtle import *
 
 speed('slow')
-distance(100)
+distance = 100
 sides = 10
 for i in range(sides):
     fd(20)
