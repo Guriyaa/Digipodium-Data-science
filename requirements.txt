@@ -1,6 +1,7 @@
 numpy
 matplotlib
 plotly
+nbformat
 pandas
 pillow
 streamlit
@@ -10,3 +11,4 @@ dputils
 opencv-contrib-python
 tweepy
 pysimplegui
+openpyxl
