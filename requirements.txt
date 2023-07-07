@@ -12,3 +12,5 @@ opencv-contrib-python
 tweepy
 pysimplegui
 openpyxl
+pylance
+statsmodels
