@@ -7,3 +7,6 @@ openpyxl
 pillow
 scikit-learn
 statsmodels
+textblob
+nltk
+pillow==9.5
