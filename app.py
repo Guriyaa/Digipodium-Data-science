@@ -23,8 +23,8 @@ import plotly.express as px
 
 st.set_page_config(layout="wide")
 
-st.title('Tweeter Data Analysis')
-st.subheader('for improving SDG goals in hotels industry')
+st.title('Twitter Sentiment Analysis')
+st.subheader('for improving SDG goals in hotel industry')
 
 def clean_tweet(text):
     # remove user mentions
